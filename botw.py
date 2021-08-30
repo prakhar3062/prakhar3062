@@ -18,7 +18,7 @@ def get_info():
             return info.lower()
      except:
         pass  
-phone_list={'bhai':'+916307132218','suryash':'+917518321657','moshi':'+917651883102','himanshu':'+919695161972','manager':'+917906399125',}
+phone_list={}
 
 def get_email_info():
     talk('To Whom you want to send message')
