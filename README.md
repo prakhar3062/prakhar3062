@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/max/1200/1*1uIttjuEz_Ry7EghgQnHkA.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Prakhar Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
